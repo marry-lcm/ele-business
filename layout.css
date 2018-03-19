@@ -1,0 +1,14 @@
+
+#header { width:960px; height:30px; border-radius:0 0 6px 6px; margin:0 auto; }
+#nav { width:960px; height:100px; margin:0 auto; position:relative}
+#search { position:relative; width:958px; height:114px; margin:0 auto 10px; border-radius:6px; border:1px solid #dbdbdb;}
+.content { width:960px; margin:0 auto;}
+.main { width:710px;}
+.main_wrap { padding-bottom:10px; }
+.section { width:317px; padding:0 15px; border:1px solid #e5e5e5; border-radius:6px;}
+.options { width:350px; position:relative; }
+.main_ad { border-radius:6px; overflow:hidden; margin-bottom:10px;}
+.side { width:240px;}
+.side_section { width:214px; border:1px solid #e5e5e5; border-radius:6px; margin-bottom:10px; padding:0 12px;}
+.side_ad { border-radius:6px; border:1px solid #e5e5e5; overflow:hidden; margin-bottom:10px;}
+#footer { width:958px; height:77px; border:1px solid #e5e5e5; border-radius:6px; margin:10px auto 29px; background:#f9f9f9;}
